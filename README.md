@@ -1,0 +1,2 @@
+# javascript_beginner_challenges
+Practicing JavaScript beginner CHallenges
